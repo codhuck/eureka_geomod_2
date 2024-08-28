@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-271e5f500674311ca4c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "eureka_geomod_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "eureka_geomod_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eureka_geomod_2-Debug-346b3235f3f9817f4c54.json",
+					"name" : "eureka_geomod_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eureka_geomod_2_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eureka_geomod_2_uninstall-Debug-df79983c9cd37235f05f.json",
+					"name" : "eureka_geomod_2_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-692b5ace2deca96f5b6d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yaroslav/ros2_ws/src/eureka_geomod_2/build",
+		"source" : "/home/yaroslav/ros2_ws/src/eureka_geomod_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

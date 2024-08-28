@@ -1,0 +1,4 @@
+source;share/eureka_geomod_2/local_setup.bash
+source;share/eureka_geomod_2/local_setup.dsv
+source;share/eureka_geomod_2/local_setup.sh
+source;share/eureka_geomod_2/local_setup.zsh
